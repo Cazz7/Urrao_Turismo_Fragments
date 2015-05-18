@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="Button_part1_main_menu" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">0.8</item>
+        <item name="android:gravity">left|center</item>
+    </style>
+
+    <style name="Layout_textinfo_main_menu" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">0.8</item>
+        <item name="android:gravity">left|center</item>
+    </style>
+</resources>

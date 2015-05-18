@@ -1,0 +1,87 @@
+<resources>
+
+    <string name="hotels">Hoteles</string>
+    <string name="home">Volver</string>
+    <string name="bars">Bares</string>
+    <string name="tourism">Turismo</string>
+    <string name="info">Información</string>
+    <string name="about">Acerca de</string>
+    <string name="aboutText">Aplicación creada por Cristian Alejadro Zapata. No poseo los derechos de ninguna de las imágenes utilizadas</string>
+
+    <string name="app_name">Práctica 5.2</string>
+    <string name="hotels_description">Aquí puedes hallar información acerca de los hoteles más importantes de Urrao...</string>
+    <string name="bars_description">Información sobre los bares y fondas más característicos del municipio...</string>
+    <string name="sites_description">Información sobre lugares para visitar, comer y divertirse...</string>
+    <string name="town_description">Información general sobre el pueblo y curiosidades...</string>
+    <string name="title_cacique_tone_hotel">HOTEL CACIQUE TONÉ</string>
+    <string name="description_cacique_tone_hotel">Este hotel está ubicado diagonal al parque principal del municipio, ofrece estadía agradable para sus visitantes con un excelente ambiente familiar.</string>
+    <string name="features_cacique_tone_hotel1">Cómodas habitaciones con baños independientes y agua caliente.\nServicio Wifi.\nCafetería con bebidas gratuitas(café, te y agua).\nHay 23 habitaciones disponibles y una suit.\nUna capacidad máxima de 61 personas.</string>
+    <string name="features_cacique_tone_hotel2">Costo(COP).\n• INDIVIDUAL: $48.000.\n• COMPARTIDO: $ 43.000 cada uno\n• PAREJA: $63.000\n• SUITE: $76.000</string>
+
+
+    <string name="title_hotel_finca_las_araucarias">FINCA HOTEL\nLAS ARAUCARIAS.</string>
+    <string name="description_hotel_finca_las_araucarias">Este hotel está ubicado a 7 kilómetros del casco urbano de Urrao. Posee piscina y canchas</string>
+    <string name="features_hotel_finca_las_araucarias1">Bar-discoteca.\nRestaurante.\nPiscina.\nAmplias zonas verdes.\nCasita para 4 personas.\nZona de camping.</string>
+    <string name="features_hotel_finca_las_araucarias2">Costo(COP).\n• INDIVIDUAL 1 NOCHE(temporada baja): $85.000.\n• INDIVIDUAL 1 NOCHE(temporada alta): $95.000.</string>
+
+    <string name="title_hotel_finca_el_paraiso">FINCA HOTEL\nEL PARAISO.</string>
+    <string name="description_hotel_finca_el_paraiso">Este hotel está ubicado en la vereda San José de Urrao, a 15 minutos del parque principal. Posee piscina, canchas y cuartos con TV</string>
+    <string name="features_hotel_finca_el_paraiso1">Piscina para adultos.\nPiscina para niños.\nBar-restaurante\nAmplias zonas verdes con piscina y canchas.\nTV.\nHabitaciones con agua caliente.</string>
+    <string name="features_hotel_finca_el_paraiso2">Costo(COP).\n• $ 70.000 por persona\nIncluye cena, desayuno y almuerzo..</string>
+
+    <string name="Where">Dónde comer en Urrao</string>
+    <string name="title_restaurant_miviejobohio">RESTAURANTE\nMI VIEJO BOHIO.</string>
+    <string name="description_restaurant_miviejobohio">Variedad de platos basados en carne de distintas preparaciones, comida casera, platos a la carta, ambiente rústico y amable atención</string>
+
+    <string name="What">Qué hacer</string>
+    <string name="title_rafting">RAFTING\nEN EL RIO PENDERISCO.</string>
+    <string name="description_rafting">Puedes hacer un recorrido en el serpenteante río que se aloja en el Valle Penderisco.</string>
+
+    <string name="title_canoeing_kayaking">CAÑONING Y TORRENTISMO.</string>
+    <string name="description_canoeing_kayaking">Urrao posee una gran cantidad de senderos donde puedes practicar turismo de aventura. En la rebosante de naturaleza puedes probar habilidad y sobrepasar tus límites</string>
+
+    <string name="title_paramo">PARAMO DEL SOL.</string>
+    <string name="description_paramo">Es una de las montañas más altas de la cordillera occidental de antioquia. Se conoce también como Páramo de Frontino y allí se aprecia una naturaleza exhuberante y un sinnúmero de especies.</string>
+
+    <string name="title_orquidea">ORQUIDEAS</string>
+    <string name="description_orquidea">La flora del páramo supera las 2405 especies registradas. Algunas de las más hermosas y caracteríscias son las orquídeas y frailejones</string>
+
+    <string name="title_frai">FRAILEJONES</string>
+    <string name="description_frai">Este tipo de planta crece en los ecosistemas del páramo, se caracteriza por su lento crecimiento durante el año</string>
+
+    <string name="title_bear">OSO DE ANTEOJOS</string>
+    <string name="description_bear">Es la única especie de oso que habita en sudamérica</string>
+
+    <string name="what_cheese">Qué probar</string>
+    <string name="title_cheese">QUESO DULCE</string>
+    <string name="description_cheese">El Queso dulce es el producto más típico de Urrao. Este delicioso producto está preparado a base de leche y azucar.</string>
+
+    <string name="demographic_info1">Urrao es un pueblo ubicado en el suroeste antioqueño. Tiene una población de aproximadamente 42000 habitantes con una extensión de 2.556 km² (segundo municipio más grande de Antioquia).</string>
+    <string name="description_">Variety of meat dishes for every taste, homemade food, à la carte dishes, rustic atmosphere and friendly attention</string>
+
+    <string name="how_call">How people from Urrao are called?</string>
+    <string name="important">A las personas de Urrao se les llama urraeños y son conocidos por su amabilidad, por ser trabajadores y alegres</string>
+
+    <string name="title_park">PARQUE PRINCIPAL URRAO</string>
+    <string name="description_park">El parque principal de Urrao es uno de los más hermosos y grandes de Antioquia.Es conocido por su temática sobre el Cacique Toné uno de los íconos más importantes de la historia Urraeña</string>
+
+    <string name="title_fonda_sanjose">FONDA SAN JOSE</string>
+    <string name="description_fonda_sanjose">Con más de 100 años desde que fue construída, la Fonda San José ha sido visitada por muchas personas que desean conocer una parte de la historia del municipio y su cultura.</string>
+
+    <string name="title_fonda_elfogon">FONDA EL FOGON</string>
+    <string name="description_fonda_elfogon">Es una de las fondas más nuevas del municipio. Posee amplio parqueadero y sitio para ubicar caballos y bestias. Hermosa decoración rústica</string>
+
+    <string name="title_fonda_lamulera">BAR LA MULERA</string>
+    <string name="description_fonda_lamulera">Es un bar muy cercano al parque del municipio. Tiene sitio para ubicar los caballos y posee decoración típica campesina de Antioquia</string>
+    <string name="title_activity_activity_hotels">Activity_hotels</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_bar">Bares</string>
+    <string name="title_activity_activity_tourism">Turismo</string>
+    <string name="title_activity_activity_info">Información</string>
+    <string name="title_activity_activity__about">Acerca de</string>
+    <string name="action_settings">Configuración</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

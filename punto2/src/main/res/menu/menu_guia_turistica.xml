@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".guiaTuristica">
+
+    <item android:id="@+id/hotel_menu"
+        android:title="@string/hotels"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/bars_menu"
+        android:title="@string/bars"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/tourism_menu"
+        android:title="@string/tourism"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/info_menu"
+        android:title="@string/info"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/about"
+        android:title="@string/about"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>

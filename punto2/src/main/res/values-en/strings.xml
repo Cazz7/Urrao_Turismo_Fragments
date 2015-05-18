@@ -1,0 +1,86 @@
+<resources>
+
+    <string name="hotels">Hotels</string>
+    <string name="home">Home</string>
+    <string name="bars">Bars</string>
+    <string name="tourism">Tourism</string>
+    <string name="info">Information</string>
+    <string name="about">About</string>
+    <string name="aboutText">App created by Cristian Alejandro Zapata. Do not own the rights of any image used in this application</string>
+
+    <string name="app_name">Práctica 5.2</string>
+    <string name="hotels_description">Here you can find information about the best hotels available in Urrao...</string>
+    <string name="bars_description">Information about the most visited bars in Urrao...</string>
+    <string name="sites_description">Nice places to visit, having food and enjoy...</string>
+    <string name="town_description">General information, curiosities and more...</string>
+    <string name="title_cacique_tone_hotel">CACIQUE TONE HOTEL</string>
+    <string name="description_cacique_tone_hotel">This hotel is located diagonally to the central park of the town, it offers a pretty comfortable lodging with a nice family environment.</string>
+    <string name="features_cacique_tone_hotel1">Comforable rooms with independent restrooms and heat water.\nWifi service.\nCafeteria with free beverages(coffee, tea and water).\nThere are 23 available rooms and a suit.\nTotal capacity 61 people with shared rooms.</string>
+    <string name="features_cacique_tone_hotel2">Cost(COP).\n• INDIVIDUAL: $48.000.\n• SHARED: $ 43.000 each one\n• COUPLE: $63.000\n• SUITE: $76.000</string>
+
+
+    <string name="title_hotel_finca_las_araucarias">LAS ARAUCARIAS\nFINCA HOTEL.</string>
+    <string name="description_hotel_finca_las_araucarias">This hotel is located at 7 kilometres of central park of Urrao. It is a Hote-Finca with a pool and a court</string>
+    <string name="features_hotel_finca_las_araucarias1">Bar and discoteque.\nRestaurant.\nPool.\nPretty wide green zones.\nCabin for 4 people.\nCamping zone.</string>
+    <string name="features_hotel_finca_las_araucarias2">Cost(COP).\n• INDIVIDUAL 1 NIGHT(low season): $85.000.\n• INDIVIDUAL 1 NIGHT(high season): $95.000.</string>
+
+    <string name="title_hotel_finca_el_paraiso">EL PARAISO\nFINCA HOTEL.</string>
+    <string name="description_hotel_finca_el_paraiso">This hotel is located at San Jose-Urrao,it is 15 minutes by car from the central park. It has a pool and rooms with cable TV</string>
+    <string name="features_hotel_finca_el_paraiso1">Pool for adults.\nPool for kids.\nBar-restaurant\nPretty wide green zones with football-voleyball courts.\nTV.\nRooms with heat water.</string>
+    <string name="features_hotel_finca_el_paraiso2">Cost(COP).\n• $ 70.000 per person\nDinner, breakfast and lunch included..</string>
+
+    <string name="Where">Where to have food</string>
+    <string name="title_restaurant_miviejobohio">RESTAURANT\nMI VIEJO BOHIO.</string>
+    <string name="description_restaurant_miviejobohio">Variety of meat dishes for every taste, homemade food, à la carte dishes, rustic atmosphere and friendly attention</string>
+
+    <string name="What">What to do</string>
+    <string name="title_rafting">RAFTING\nPENDERISCO RIVER.</string>
+    <string name="description_rafting">You can ride the that river follows a meandering path crossing the wide and green valley of Penderisco.</string>
+
+    <string name="title_canoeing_kayaking">CANOEING AND CLIMBING.</string>
+    <string name="description_canoeing_kayaking">Urrao has a huge amount of places where you can practice tourism of adventure. There are plenty of nature where you can test your limits and skills</string>
+
+    <string name="title_paramo">PARAMO DEL SOL.</string>
+    <string name="description_paramo">It is one of the highest mountains of the Western Cordillera of Antioquia. It is known as Paramo of Frontino as well and it has an exhuberante nature and variety of species</string>
+
+    <string name="title_orquidea">ORQUIDS</string>
+    <string name="description_orquidea">Concerning the flora the Paramo of Frontino has more than 2405 registered species of plants. Some of the most beautiful are the orchids and  frailejons</string>
+
+    <string name="title_frai">FRAILEJONS</string>
+    <string name="description_frai">These plants live at high altitude in the Páramo ecosystems and grow slowly during the year</string>
+
+    <string name="title_bear">BEARS OF FRONTINO</string>
+    <string name="description_bear">This kind of bear is the only one that lives in the South American mountains</string>
+
+    <string name="what_cheese">What to try</string>
+    <string name="title_cheese">QUESO DULCE (Cheese)</string>
+    <string name="description_cheese">The "queso dulce" is the most typical product of Urrao. This delicious product is prepared with milk and sugar.</string>
+
+    <string name="About_urrao">Where to have food</string>
+    <string name="demographic_info1">Urrao is a town located in the western region of Antioquia-Colombia. It has a population of approximately 42000 inhabitants and an extension of 2.556 km²</string>
+    <string name="description_">Variety of meat dishes for every taste, homemade food, à la carte dishes, rustic atmosphere and friendly attention</string>
+
+    <string name="how_call">How people from Urrao are called?</string>
+    <string name="important">People from Urrao are called Urraeños and they are recognized for being gentle, hard-working and happy</string>
+
+    <string name="title_park">CENTRAL PARK. URRAO</string>
+    <string name="description_park">The Central Park of Urrao is one of the most beautiful of Antioquia. It is known because it was built in honor of Cacique Tone one of the main icons of this town</string>
+
+    <string name="title_fonda_sanjose">FONDA SAN JOSE</string>
+    <string name="description_fonda_sanjose">With more than 100 years since it was built, the Fonda San Jose has been visited for many people that want to know a piece of history about Urrao and its culture.</string>
+
+    <string name="title_fonda_elfogon">FONDA EL FOGON</string>
+    <string name="description_fonda_elfogon">This is one of the newest bars in Urrao. It has a big parking lot and a place for horses. Beautiful rustic decoration</string>
+
+    <string name="title_fonda_lamulera">BAR LA MULERA</string>
+    <string name="description_fonda_lamulera">It is a bar located near the central park of Urrao. It has a place for horses and its decoration is representative of the culture of Antioquia</string>
+
+    <string name="title_activity_activity_hotels">Hotels</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_bar">Bars</string>
+    <string name="title_activity_activity_tourism">Tourism</string>
+    <string name="title_activity_activity_info">Information</string>
+    <string name="title_activity_activity__about">About</string>
+    <string name="action_settings">Settings</string>
+</resources>
